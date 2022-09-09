@@ -34,3 +34,4 @@ update AddressBook set type='Family' where fname='Namrata';
 
 
 select * from AddressBook;
+
